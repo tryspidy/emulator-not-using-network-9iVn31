@@ -1,0 +1,5 @@
+What I have observed is that when you switch wifi connections when the android 
+emulator is running. It isn't able to connect to new wifi.
+
+A simple solution is to restart the android emulator. and goto AVD manager and
+Cold Boot Now will solve the problem
